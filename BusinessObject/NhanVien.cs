@@ -11,6 +11,8 @@ namespace CuahangNongduoc.BusinessObject
         public string MatKhau { get; set; }
         public string VaiTro { get; set; }
         public DateTime NgayTao { get; set; }
+        public DateTime NgaySinh
     }
 }
+
 
